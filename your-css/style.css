@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+  font-size: 40px;
+}
+h2 {
+  color: blue;
+
+}
+#par1 {
+  font-style: italic;
+}
+.twopars {
+  color: green;
+  font-size: 25px;
+}
